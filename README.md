@@ -47,7 +47,7 @@ Ashish Gowtham</a></h1>
   <summary><b>🌐 Web Dev</b></summary>
   <blockquote>
     <details>
-      <summary><b>⚡ Frontend</b></summary>
+      <summary><b>💻 Frontend</b></summary>
       <blockquote>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -69,7 +69,7 @@ Ashish Gowtham</a></h1>
   </blockquote>
   <blockquote>
     <details>
-      <summary><b>⚡ Backend</b></summary>
+      <summary><b>⚙️ Backend</b></summary>
     <blockquote>
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -85,7 +85,7 @@ Ashish Gowtham</a></h1>
   </blockquote>
   <blockquote>
     <details>
-      <summary><b>⚡ Full Stack Frameworks</b></summary>
+      <summary><b>🌠 Full Stack Frameworks</b></summary>
     <blockquote>
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -96,7 +96,7 @@ Ashish Gowtham</a></h1>
   </blockquote>
   <blockquote>
     <details>
-      <summary><b>⚡ Other web technologies</b></summary>
+      <summary><b>🕸️ Other web technologies</b></summary>
     <blockquote>
 
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
@@ -110,7 +110,7 @@ Ashish Gowtham</a></h1>
 
 <details>
 
-  <summary><b>⌨️ Databases</b></summary>
+  <summary><b>📅 Databases</b></summary>
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -120,20 +120,20 @@ Ashish Gowtham</a></h1>
 
 <details>
 
-  <summary><b>⌨️ Mobile App Dev</b></summary>
+  <summary><b>📱 Mobile App Dev</b></summary>
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 </details>
 
 <details>
 
-  <summary><b>⌨️ Desktop App Dev</b></summary>
+  <summary><b>🖥️ Desktop App Dev</b></summary>
 
 ![Electron](https://img.shields.io/badge/electron-%2347848F.svg?style=for-the-badge&logo=electron&logoColor=white)
 </details>
 <details>
 
-  <summary><b>⌨️ Deployment</b></summary>
+  <summary><b>☁️ Deployment</b></summary>
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -142,7 +142,7 @@ Ashish Gowtham</a></h1>
 </details>
 <details>
 
-  <summary><b>⌨️ Blockchain</b></summary>
+  <summary><b>⛓️ Blockchain</b></summary>
 
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/web3.js-%23323330.svg?style=for-the-badge&logo=web3.js&logoColor=%23F7DF1E)
@@ -153,7 +153,7 @@ Ashish Gowtham</a></h1>
 </details>
 <details>
 
-  <summary><b>⌨️ Machine Learning</b></summary>
+  <summary><b>✨ Machine Learning</b></summary>
 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Numpy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -166,7 +166,7 @@ Ashish Gowtham</a></h1>
 </details>
 <details>
 
-  <summary><b>⌨️ UI & Design</b></summary>
+  <summary><b>🎆 UI & Design</b></summary>
 
 ![Unified Modeling Language](https://img.shields.io/badge/UML-%23000000.svg?style=for-the-badge&logo=uml&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
@@ -178,22 +178,22 @@ Ashish Gowtham</a></h1>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Github Stats 🚀</h3>
 <details>
-    <summary><b>Stats</b></summary>
+    <summary><b>🔢Stats</b></summary>
     
 ![](https://github-readme-stats.vercel.app/api?username=ashishnex007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 </details>
 <details>
-    <summary><b>Streaks</b></summary>
+    <summary><b>🔥Streaks</b></summary>
     
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ashishnex007&theme=dark&hide_border=false)
 </details>
 <details>
-    <summary><b>Most Used Languages</b></summary>
+    <summary><b>⭐Most Used Languages</b></summary>
     
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishnex007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </details>
 <details>
-    <summary><b>Github Trophies</b></summary>
+    <summary><b>🏆Github Trophies</b></summary>
     
 ![](https://github-profile-trophy.vercel.app/?username=ashishnex007&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 </details>
