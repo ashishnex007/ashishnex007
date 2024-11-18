@@ -10,7 +10,7 @@ Ashish Gowtham</a></h1>
 
 - 🔭 I’m currently pursuing Final year B.Tech
 
-- 🌱 I’m currently learning Deep Learning
+- 🌱 I’m currently learning a lot of things 😅
   
 - ⭐ I’m good at Dev
 
