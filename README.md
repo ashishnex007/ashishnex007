@@ -18,6 +18,8 @@ Ashish Gowtham</a></h1>
 
 - 💬 Ask me about **App dev & Web Dev**
 
+- ⚡I spend more time on Text Editor and Video games than RL
+
 <br/>
 <div align="center">
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
