@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://ashishnex007.vercel.app" target="blank">
 Ashish Gowtham</a></h1>
-<h3 align="center">A passionate Software developer and ML enthusiast</h3>
+<h3 align="center">A passionate Software Engineer and ML enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishnex007&label=Profile%20views&color=0e75b6&style=flat" alt="ashishnex007" /> </p>
 
@@ -8,9 +8,9 @@ Ashish Gowtham</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently pursuing Final year B.Tech
+- 🔭 I'm doing a job
 
-- 🌱 I’m currently learning a lot of things 😅
+- 🌱 I’m currently learning a lot of things 
   
 - ⭐ I’m good at Dev
 
@@ -18,7 +18,9 @@ Ashish Gowtham</a></h1>
 
 - 💬 Ask me about **App dev & Web Dev**
 
-- ⚡I spend more time on Text Editor and Video games than RL
+- ⚡I spend more time on Anime, Text Editor and Video games than RL
+
+- ✨I didn't use AI to build this :)
 
 <br/>
 <br/>
