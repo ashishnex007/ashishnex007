@@ -1,16 +1,22 @@
 <h1 align="center">Hi 👋, I'm <a href="https://ashishnex007.vercel.app" target="blank">
 Ashish Gowtham</a></h1>
-<h3 align="center">A passionate Software Engineer and ML enthusiast</h3>
+<h3 align="center">Passionate Software Engineer and ML enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishnex007&label=Profile%20views&color=0e75b6&style=flat" alt="ashishnex007" /> </p>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<a align="right">
+  <img
+    align="right"
+    height="270"
+    width="270"
+    alt="ASCII Portrait"
+    src="./ash-ascii-art.png"
+  >
 </a>
 
 - 🔭 I'm doing a job
 
-- 🌱 I’m currently learning a lot of things 
+- 🌱 I’m currently mastering Cloud
   
 - ⭐ I’m good at Dev
 
