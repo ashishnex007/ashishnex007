@@ -14,7 +14,7 @@ Ashish Gowtham</a></h1>
   >
 </a>
 
-- 🔭 I'm doing a job
+- 🔭 I'm working
 
 - 🌱 I’m currently mastering Cloud
   
